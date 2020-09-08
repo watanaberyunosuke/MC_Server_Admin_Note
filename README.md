@@ -4,5 +4,13 @@ This note is used to mantain and knowing the backend mecanism of the correspound
 
 
 
+## Backend Setup
+
+
+
+The backend constitute the following module:
+
+* Minecraft server
+* 
 
 
