@@ -30,5 +30,19 @@ FTP Server can be accessed by multicraft panel and remote FTP, but please note t
 
 
 
+## Report A Bug
+
+You can report a bug by:
+
+* Openning an issue
+* Contact system admin via Discord
+* Contact system admin via Email
+
+
+
+
+
+_The above information are by Harry Watson, Ranking: System Administrator_
+
 
 
