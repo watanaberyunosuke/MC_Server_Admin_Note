@@ -13,22 +13,19 @@ The backend constitute the following module:
 
 For access credential to the above services please consult system administrator.
 
-
-
 ## Know Bug
 
 The following bugs are currently known
-
-
 
 **Minecraft Server:**
 
 * None
 
-
-
 **FTP Server:**
 
-* 
+FTP Server can be accessed by multicraft panel and remote FTP, but please note that:
+
+* Unzipping function and upload folder function at multicraft panel is not working and will result in freeze of panel and service 502 status
+
 
 
