@@ -1,6 +1,6 @@
-# Mantainance Note for Minecraft Server
+# Maintenance Note for Minecraft Server
 
-This note is used to mantain and knowing the backend mecanism of the correspounding MC server: Playground
+This note is used to mainten and knowing the backend mecanism of the correspounding MC server: Playground
 
 ## Backend Setup
 
@@ -13,7 +13,7 @@ The backend constitute the following module:
 
 For access credential to the above services please consult system administrator.
 
-## Know Bug
+## Known Bug
 
 The following bugs are currently known
 
