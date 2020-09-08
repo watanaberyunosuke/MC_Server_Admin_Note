@@ -26,6 +26,9 @@ The following bugs are currently known
 FTP Server can be accessed by multicraft panel and remote FTP, but please note that:
 
 * **Unzipping function** and **upload folder function** at multicraft panel is not working and will result in** freeze of panel** and **service 502 status**
-* 
+* FTP server can only be read by using macOS system remote folder, if want to modify, please use FileZilla
+
+
+
 
 
