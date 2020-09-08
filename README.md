@@ -11,13 +11,24 @@ The backend constitute the following module:
 
 * Management panel using Multicraft
 
-
-
 For access credential to the above services please consult system administrator.
 
 
 
+## Know Bug
+
+The following bugs are currently known
 
 
+
+**Minecraft Server:**
+
+* None
+
+
+
+**FTP Server:**
+
+* 
 
 
